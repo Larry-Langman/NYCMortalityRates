@@ -4,7 +4,6 @@
 * these classes should be run on an HDFS cluster as a MapReduce program (instructions below)
 * contains the map and reduce java files and classes for counting the number of lines in the data file (output saved as lineCount.txt)
 * also contains hive-profiling.hql where some exploration of the data was done with Hive in order to best understand how to clean the data
-* 
 
 # How to Build And Run Code
 
